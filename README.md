@@ -11,7 +11,7 @@ como los siguientes:
 
 Como Usar la pagina:
 <ol>
-  <li> <a href="https://kevinantunezortiz.github.io/amigosecreto/">clic para visitar</a></li>
+  <li> <a target="_blank" href="https://kevinantunezortiz.github.io/amigosecreto/">clic para visitar</a></li>
   <li>Agregar amigos desde la caja de texto y presionando el botón</li>
   <li>Cuando hayas colocado todos tus amigos da clic en el botón sortear amigo para que aparesca el amigo secreto</li>
 </ol>
