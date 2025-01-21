@@ -12,3 +12,13 @@ function agregarAmigo() {
         alert("Debes escribir el nombre de uno de tus amigos");
     }
 }
+
+function actualizarLista(){
+    const lista = document.getElementById("listaAmigos");
+    lista.innerHTML="";
+    amigos.forEach(amigo=>{
+        const elemento = document.createElement("li");
+        elemento.innerText=amigo;
+        lista.appendChild(elemento);
+    });
+}
