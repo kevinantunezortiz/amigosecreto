@@ -12,7 +12,7 @@ como los siguientes:
 Como Usar la pagina:
 <ol>
   <li> <a target="_blank" href="https://kevinantunezortiz.github.io/amigosecreto/">clic para visitar</a></li>
-  <img src="assets/qr.png" alt="qr para ir al sitio del amigo secreto">
+  <img src="assets/qr.png" alt="qr para ir al sitio del amigo secreto" width="250" height="300">
   <li>Agregar amigos desde la caja de texto y presionando el botón</li>
   <li>Cuando hayas colocado todos tus amigos da clic en el botón sortear amigo para que aparesca el amigo secreto</li>
 </ol>
